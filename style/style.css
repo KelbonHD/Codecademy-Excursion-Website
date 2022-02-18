@@ -7,6 +7,7 @@ h1 {
     color: white;
     font-family: verdana;
     font-size: 50px;
+    font-weight: normal;
 }
 
 a {
@@ -24,11 +25,16 @@ h2 {
 
 h3 {
     font-family: verdana;
-    font-size: 21px;
     color: gray;
 }
 
 .mention {
     text-align: right;
+}
+
+p {
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
 }
 
